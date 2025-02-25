@@ -20,10 +20,10 @@ Este projeto é uma aplicação simples para realizar sorteios de "Amigo Secreto
 
 ## Capturas de Tela
 
-![Tela Principal](screenshots/tela_principal.PNG)
+![Tela Principal](screenshots/tela_principal.png)
 *Tela onde você pode adicionar os participantes.*
 
-![Resultado do Sorteio](screenshots/resultado_sorteio.PNG)
+![Resultado do Sorteio](screenshots/resultado_sorteio.png)
 *Exibição dos resultados após o sorteio.*
 
 ## Como Rodar o Projeto
